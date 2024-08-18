@@ -1,5 +1,6 @@
 # Project Setup Instructions
-
+Download infosec-main folder from this gihub repository
+https://github.com/chintanjethi/infosec1-main
 ## Step 1: Install Dependencies
 
 Navigate to the `api-manager` and `backend` directories and install the required dependencies.
