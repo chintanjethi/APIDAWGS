@@ -35,6 +35,10 @@ PORT=8000
 
 Once the dependencies are installed and the environment variables are set, start the application.
 ```bash
+# Star the frontend
+cd path/to/api-manager
+npm start
+
 # Start the backend
 cd path/to/backend
 npm start
